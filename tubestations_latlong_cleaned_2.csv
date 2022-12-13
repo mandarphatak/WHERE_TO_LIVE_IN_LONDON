@@ -1,0 +1,375 @@
+Station,Local authority,Managed by,Stationcode,Farezone,Yearopened,Category,latitude,longitude
+"Abbey Wood station, London, UK",Greenwich,Elizabeth line,ABW,4,1849,C, _51.4915 ,0.1229
+"Acton Central station, London, UK",Ealing,London Overground,ACC,3,1853,D, _51.5088 ,-0.2634
+"Acton Main Line station, London, UK",Ealing,Elizabeth line,AML,3,1868,E, _51.5169 ,-0.2669
+"Albany Park station, London, UK",Bexley,Southeastern,AYP,5,1935,D, _51.4358 ,0.1266
+"Alexandra Palace station, London, UK",Haringey,Great Northern,AAP,3,1873,D, _51.5983 ,-0.1197
+"Amersham station, London, UK",Buckinghamshireout-boundary,London Underground,AMR,9,1892,unlisted, _51.6747 ,-0.6088
+"Anerley station, London, UK",Bromley,London Overground,ANZ,4,1839,E, _51.4125 ,-0.0651
+"Balham station, London, UK",Wandsworth,Southern,BAL,3,1863,C, _51.4426 ,-0.1520
+"Banstead station, London, UK",Reigate and Bansteadout-boundary,Southern,BAD,6,1865,F, _51.3292 ,-0.2132
+"Barking station, London, UK",Barking and Dagenham,c2c,BKG,4,1854,B, _51.5393 ,0.0817
+"Barking Riverside station, London, UK",Barking and Dagenham,London Overground,BGV,4,2022,, _51.5191 ,0.1147
+"Barnehurst station, London, UK",Bexley,Southeastern,BNH,6,1895,C, _51.4648 ,0.1595
+"Barnes station, London, UK",Richmond upon Thames,South Western Railway,BNS,3,1846,C, _51.4671 ,-0.2420
+"Barnes Bridge station, London, UK",Richmond upon Thames,South Western Railway,BNI,3,1916,C, _51.4722 ,-0.2523
+"Battersea Park station, London, UK",Wandsworth,Southern,BAK,2,1865,D, _51.4779 ,-0.1477
+"Beckenham Hill station, London, UK",Lewisham,Thameslink,BEC,4,1892,E, _51.4246 ,-0.0161
+"Beckenham Junction station, London, UK",Bromley,Southeastern,BKJ,4,1857,C, _51.4109 ,-0.0257
+"Bellingham station, London, UK",Lewisham,Southeastern,BGM,3,1892,E, _51.4342 ,-0.0199
+"Belmont station, London, UK",Sutton,Southern,BLM,5,1865,F, _51.3440 ,-0.1986
+"Belvedere station, London, UK",Bexley,Southeastern,BVD,5,1859,E, _51.4927 ,0.1524
+"Berrylands station, London, UK",Kingston upon Thames,South Western Railway,BRS,5,1933,E, _51.3988 ,-0.2803
+"Bethnal Green station, London, UK",Tower Hamlets,London Overground,BET,2,1872,F, _51.5230 ,-0.0595
+"Bexley station, London, UK",Bexley,Southeastern,BXY,6,1866,D, _51.4403 ,0.1479
+"Bexleyheath station, London, UK",Bexley,Southeastern,BXH,5,1895,C, _51.4635 ,0.1338
+"Bickley station, London, UK",Bromley,Southeastern,BKL,5,1858,D, _51.3995 ,0.0441
+"Birkbeck station, London, UK",Bromley,Southern,BIK,4,1930,F, _51.4039 ,-0.0568
+"BlackfriarsLondon station, London, UK",City of London,Thameslink,BFR,1,1886,A, _51.5116 ,-0.1030
+"Blackheath station, London, UK",Lewisham,Southeastern,BKH,3,1849,C, _51.4663 ,0.0064
+"Blackhorse Road station, London, UK",Waltham Forest,London Underground,BHO,3,1894,E, _51.5866 ,-0.0416
+"Bowes Park station, London, UK",Haringey,Great Northern,BOP,03-Apr,1880,E, _51.6078 ,-0.1209
+"Brentford station, London, UK",Hounslow,South Western Railway,BFD,4,1849,E, _51.4875 ,-0.3096
+"Brentwood station, London, UK",Brentwoodout-boundary,Elizabeth line,BRE,9,1840,C, _51.6137 ,0.3001
+"Brimsdown station, London, UK",Enfield,Greater Anglia,BMD,5,1884,E, _51.6556 ,-0.0301
+"Brixton station, London, UK",Lambeth,Southeastern,BRX,2,1862,E, _51.4629 ,-0.1132
+"Brockley station, London, UK",Lewisham,London Overground,BCY,2,1871,D, _51.4645 ,-0.0369
+"Bromley North station, London, UK",Bromley,Southeastern,BMN,4,1878,D, _51.4088 ,0.0179
+"Bromley South station, London, UK",Bromley,Southeastern,BMS,5,1858,B, _51.4004 ,0.0181
+"Brondesbury station, London, UK",Brent,London Overground,BSY,2,1860,E, _51.5451 ,-0.2020
+"Brondesbury Park station, London, UK",Brent,London Overground,BSP,2,1904,E, _51.5407 ,-0.2103
+"Broxbourne station, London, UK",Broxbourneout-boundary,Greater Anglia,BXB,B,1840,C, _51.7483 ,-0.0094
+"Bruce Grove station, London, UK",Haringey,London Overground,BCV,3,1872,E, _51.5940 ,-0.0704
+"Bushey station, London, UK",Watfordout-boundary,London Overground,BSH,8,1841,E, _51.6440 ,-0.3850
+"Bush Hill Park station, London, UK",Enfield,London Overground,BHK,5,1880,D, _51.6418 ,-0.0691
+"Caledonian Road & Barnsbury station, London, UK",Islington,London Overground,CIR,2,1850,E, _51.5432 ,-0.1145
+"Cambridge Heath station, London, UK",Tower Hamlets,London Overground,CBH,2,1872,F, _51.5321 ,-0.0572
+"Camden Road station, London, UK",Camden,London Overground,CMD,2,1870,D, _51.5444 ,-0.1401
+"Canada Water station, London, UK",Southwark,London Underground,ZCW,2,1999,unlisted, _51.4983 ,-0.0500
+"Canary Wharf station, London, UK",Tower Hamlets,Elizabeth line,CWX,2,2022,unlisted, _51.5061 ,-0.0158
+"Cannon StreetLondon station, London, UK",City of London,Network Rail,CST,1,1866,A, _51.5101 ,-0.0912
+"Canonbury station, London, UK",Islington,London Overground,CNN,2,1869,F, _51.5482 ,-0.0925
+"Carpenders Park station, London, UK",Three Riversout-boundary,London Overground,CPK,7,1932,E, _51.6290 ,-0.3860
+"Carshalton station, London, UK",Sutton,Southern,CSH,5,1868,D, _51.3686 ,-0.1659
+"Carshalton Beeches station, London, UK",Sutton,Southern,CSB,5,1906,E, _51.3577 ,-0.1714
+"Castle Bar Park station, London, UK",Ealing,Great Western Railway,CBP,4,1906,E, _51.5228 ,-0.3323
+"Caterham station, London, UK",Tandridgeout-boundary,Southern,CAT,6,1856,D, _51.28214 ,-0.0783
+"Catford station, London, UK",Lewisham,Southeastern,CTF,3,1892,D, _51.4447 ,-0.0261
+"Catford Bridge station, London, UK",Lewisham,Southeastern,CFB,3,1857,D, _51.4446 ,-0.0250
+"Chadwell Heath station, London, UK",Redbridge,Elizabeth line,CTH,5,1864,C, _51.5678 ,0.1292
+"Chafford Hundred station, London, UK",Thurrockout-boundary,c2c,CFH,G,1993,E, _51.4859 ,0.2876
+"Chalfont & Latimer station, London, UK",Buckinghamshireout-boundary,London Underground,CFO,8,1889,unlisted, _51.6679 ,-0.5610
+"Charing CrossLondon station, London, UK",Westminster,Network Rail,CHX,1,1864,A, _51.5075 ,-0.1231
+"Charlton station, London, UK",Greenwich,Southeastern,CTN,3,1849,D, _51.4868 ,0.0310
+"Cheam station, London, UK",Sutton,Southern,CHE,5,1844,D, _51.3560 ,-0.2147
+"Chelsfield station, London, UK",Bromley,Southeastern,CLD,6,1868,D, _51.3565 ,0.1076
+"Cheshunt station, London, UK",Broxbourneout-boundary,Greater Anglia,CHN,8,1846,C, _51.7039 ,-0.0221
+"Chessington North station, London, UK",Kingston upon Thames,South Western Railway,CSN,6,1939,D, _51.3642 ,-0.3005
+"Chessington South station, London, UK",Kingston upon Thames,South Western Railway,CSS,6,1939,E, _51.3569 ,-0.3080
+"Chingford station, London, UK",Waltham Forest,London Overground,CHI,5,1873,C, _51.6331 ,0.0094
+"Chipstead station, London, UK",Reigate and Bansteadout-boundary,Southern,CHP,6,1899,E, _51.3093 ,-0.1693
+"Chislehurst station, London, UK",Bromley,Southeastern,CIT,5,1865,D, _51.4057 ,0.0573
+"Chiswick station, London, UK",Hounslow,South Western Railway,CHK,3,1849,E, _51.4813 ,-0.2683
+"Chorleywood station, London, UK",Three Riversout-boundary,London Underground,CLW,7,1889,unlisted, _51.6541 ,-0.5183
+"City ThameslinkLondon station, London, UK",City of London,Thameslink,CTK,1,1990,C, _51.5163 ,-0.1037
+"Clapham High Street station, London, UK",Lambeth,London Overground,CLP,2,1866,F, _51.4658 ,-0.1328
+"Clapham Junction station, London, UK",Wandsworth,South Western Railway,CLJ,2,1863,B, _51.4644 ,-0.1703
+"Clapton station, London, UK",Hackney,London Overground,CPT,02-Mar,1873,D, _51.5617 ,-0.0571
+"Clock House station, London, UK",Bromley,Southeastern,CLK,4,1864,D, _51.4088 ,-0.0411
+"Coulsdon South station, London, UK",Croydon,Southern,CDS,6,1889,D, _51.3157 ,-0.1380
+"Coulsdon Town station, London, UK",Croydon,Southern,CDN,6,1904,E, _51.3219 ,-0.1340
+"Crayford station, London, UK",Bexley,Southeastern,CRY,6,1866,D, _51.4483 ,0.1786
+"Crews Hill station, London, UK",Enfield,Great Northern,CWH,6,1910,F, _51.6845 ,-0.1072
+"Cricklewood station, London, UK",Barnet,Thameslink,CRI,3,1868,E, _51.5586 ,-0.2129
+"Crofton Park station, London, UK",Lewisham,Southeastern,CFT,3,1892,E, _51.4550 ,-0.0367
+"Crouch Hill station, London, UK",Islington,London Overground,CRH,3,1868,E, _51.5720 ,-0.1171
+"Crystal Palace station, London, UK",Bromley,London Overground,CYP,03-Apr,1854,D, _51.4182 ,-0.0726
+"Custom House station, London, UK",Newham,Elizabeth line,CUS,2,2022,unlisted, _51.509639 ,0.0259
+"Dagenham Dock station, London, UK",Barking and Dagenham,c2c,DDK,5,1908,E, _51.5268 ,0.1450
+"Dalston Junction station, London, UK",Hackney,London Overground,DLJ,2,2010c,unlisted, _51.5453 ,-0.0747
+"Dalston Kingsland station, London, UK",Hackney,London Overground,DLK,2,1983,D, _51.5482 ,-0.0763
+"Dartford station, London, UK",Dartfordout-boundary,Southeastern,DFD,8,1849,C, _51.4475 ,0.2193
+"Denmark Hill station, London, UK",Southwark,Thameslink,DMK,2,1866,D, _51.4683 ,-0.0894
+"Deptford station, London, UK",Lewisham,Southeastern,DEP,2,1836,E, _51.4788 ,-0.0265
+"Drayton Green station, London, UK",Ealing,Great Western Railway,DRG,4,1905,F, _51.5165 ,-0.3300
+"Drayton Park station, London, UK",Islington,Great Northern,DYP,2,1904,E, _51.5528 ,-0.1055
+"Ealing Broadway station, London, UK",Ealing,Elizabeth line,EAL,3,1838,C, _51.5147 ,-0.3017
+"Earlsfield station, London, UK",Wandsworth,South Western Railway,EAD,3,1884,D, _51.4424 ,-0.1877
+"East Croydon station, London, UK",Croydon,Southern,ECR,5,1841,B, _51.3753 ,-0.0930
+"East Dulwich station, London, UK",Southwark,Southern,EDW,2,1868,E, _51.4616 ,-0.0804
+"Eden Park station, London, UK",Bromley,Southeastern,EDN,5,1882,E, _51.3900 ,-0.0262
+"Edmonton Green station, London, UK",Enfield,London Overground,EDR,4,1872,C, _51.6242 ,-0.0614
+"Elephant & Castle station, London, UK",Southwark,Thameslink,EPH,01-Feb,1862,E, _51.4938 ,-0.0986
+"Elmers End station, London, UK",Bromley,Southeastern,ELE,4,1864,D, _51.3981 ,-0.0496
+"Elmstead Woods station, London, UK",Bromley,Southeastern,ESD,4,1904,D, _51.4168 ,0.0441
+"Elstree & Borehamwood station, London, UK",Hertsmereout-boundary,Thameslink,ELS,6,1868,E, _51.6531 ,-0.2802
+"Eltham station, London, UK",Greenwich,Southeastern,ELW,4,1895,C, _51.4555 ,0.0515
+"Emerson Park station, London, UK",Havering,London Overground,EMP,6,1909,F, _51.5687 ,0.2204
+"Enfield Chase station, London, UK",Enfield,Great Northern,ENC,5,1910,D, _51.6529 ,-0.0908
+"Enfield Lock station, London, UK",Enfield,Greater Anglia,ENL,6,1855,E, _51.6709 ,-0.0284
+"Enfield Town station, London, UK",Enfield,London Overground,ENF,5,1849,C, _51.6516 ,-0.0792
+"Epsom Downs station, London, UK",Epsom and Ewellout-boundary,Southern,EPD,6,1865,F, _51.3237 ,-0.2389
+"Erith station, London, UK",Bexley,Southeastern,ERH,6,1849,E, _51.4816 ,0.1754
+"Essex Road station, London, UK",Islington,Great Northern,EXR,2,1904,E, _51.5406 ,-0.0963
+"EustonLondon station, London, UK",Camden,Network Rail,EUS,1,1837,A, _51.5287 ,-0.1345
+"Ewell East station, London, UK",Epsom and Ewellout-boundary,Southern,EWE,6,1847,E, _51.3451 ,-0.2419
+"Ewell West station, London, UK",Epsom and Ewellout-boundary,South Western Railway,EWW,6,1859,C, _51.3502 ,-0.2569
+"Falconwood station, London, UK",Bexley,Southeastern,FCN,4,1936,D, _51.4592 ,0.0799
+"Farringdon station, London, UK",Islington,London Underground,ZFD,1,1863,E, _51.5206 ,-0.1053
+"Feltham station, London, UK",Hounslow,South Western Railway,FEL,6,1848,C, _51.4481 ,-0.4088
+"Fenchurch StreetLondon station, London, UK",City of London,c2c,FST,1,1841,A, _51.5114 ,-0.0783
+"Finchley Road & Frognal station, London, UK",Camden,London Overground,FNY,2,1860,E, _51.5499 ,-0.1837
+"Finsbury Park station, London, UK",Islington,Great Northern,FPK,2,1861,C, _51.564653 ,-0.1064
+"Forest Gate station, London, UK",Newham,Elizabeth line,FOG,3,1839,C, _51.5494 ,0.0242
+"Forest Hill station, London, UK",Lewisham,London Overground,FOH,3,1839,C, _51.4393 ,-0.0533
+"Fulwell station, London, UK",Richmond upon Thames,South Western Railway,FLW,6,1864,E, _51.4334 ,-0.3508
+"Gidea Park station, London, UK",Havering,Elizabeth line,GDP,6,1910,C, _51.5820 ,0.2063
+"Gipsy Hill station, London, UK",Lambeth,Southern,GIP,3,1856,E, _51.4246 ,-0.0840
+"Goodmayes station, London, UK",Redbridge,Elizabeth line,GMY,4,1901,C, _51.5655 ,0.1109
+"Gordon Hill station, London, UK",Enfield,Great Northern,GDH,5,1910,D, _51.6632 ,-0.0943
+"Gospel Oak station, London, UK",Camden,London Overground,GPO,2,1860,D, _51.5552 ,-0.1514
+"Grange Park station, London, UK",Enfield,Great Northern,GPK,5,1910,E, _51.6431 ,-0.0969
+"Grays station, London, UK",Thurrockout-boundary,c2c,GRY,G,1854,C, _51.4760 ,0.3220
+"Greenford station, London, UK",Ealing,London Underground,GFD,4,1904,unlisted, _51.5426 ,-0.3463
+"Greenwich station, London, UK",Greenwich,Southeastern,GNW,02-Mar,1836,D, _51.4782 ,-0.0134
+"Grove Park station, London, UK",Lewisham,Southeastern,GRP,4,1871,C, _51.4306 ,0.0219
+"Gunnersbury station, London, UK",Hounslow,London Underground,GUN,3,1869,D, _51.4918 ,-0.2750
+"Hackbridge station, London, UK",Sutton,Southern,HCB,4,1868,E, _51.3778 ,-0.1539
+"Hackney Central station, London, UK",Hackney,London Overground,HKC,2,1980c,D, _51.5470 ,-0.0559
+"Hackney Downs station, London, UK",Hackney,London Overground,HAC,2,1872,C, _51.5483 ,-0.0601
+"Hackney Wick station, London, UK",Tower Hamlets,London Overground,HKW,2,1980,E, _51.5432 ,-0.0249
+"Hadley Wood station, London, UK",Enfield,Great Northern,HDW,6,1885,E, _51.6688 ,-0.1761
+"Haggerston station, London, UK",Hackney,London Overground,HGG,2,2010c,unlisted, _51.5381 ,-0.0736
+"Hampstead Heath station, London, UK",Camden,London Overground,HDH,2,1860,D, _51.5553 ,-0.1654
+"Hampton station, London, UK",Richmond upon Thames,South Western Railway,HMP,6,1864,C, _51.4159 ,-0.3717
+"Hampton Court station, London, UK",Elmbridgeout-boundary,South Western Railway,HMC,6,1849,C, _51.4028 ,-0.3425
+"Hampton Wick station, London, UK",Richmond upon Thames,South Western Railway,HMW,6,1863,D, _51.4141 ,-0.3107
+"Hanwell station, London, UK",Ealing,Elizabeth line,HAN,4,1839,E, _51.5116 ,-0.3389
+"Harlesden station, London, UK",Brent,London Underground,HDN,3,1912,E, _51.5363 ,-0.2581
+"Harold Wood station, London, UK",Havering,Elizabeth line,HRO,6,1868,C, _51.5928 ,0.2343
+"Harringay station, London, UK",Haringey,Great Northern,HGY,3,1865,D, _51.5770 ,-0.1052
+"Harringay Green Lanes station, London, UK",Haringey,London Overground,HRY,3,1880,E, _51.5774 ,-0.0977
+"Harrow & Wealdstone station, London, UK",Harrow,London Underground,HRW,5,1837,C, _51.5921 ,-0.3347
+"Harrow-on-the-Hill station, London, UK",Harrow,London Underground,HOH,5,1880,unlisted, _51.5794 ,-0.3370
+"Hatch End station, London, UK",Harrow,London Overground,HTE,6,1844,E, _51.6097 ,-0.3682
+"Haydons Road station, London, UK",Merton,Thameslink,HYR,3,1868,E, _51.4255 ,-0.1880
+"Hayes station, London, UK",Bromley,Southeastern,HYS,5,1882,D, _51.3765 ,0.0102
+"Hayes & Harlington station, London, UK",Hillingdon,Elizabeth line,HAY,5,1864,D, _51.5031 ,-0.4203
+"Headstone Lane station, London, UK",Harrow,London Overground,HDL,5,1917,E, _51.6019 ,-0.3566
+"Heathrow Central station, London, UK",Hillingdon,Heathrow Express,HXX,6,1999,unlisted, _51.4710 ,-0.4540
+"Heathrow Terminal 4 station, London, UK",Hillingdon,Heathrow Express,HAF,6,1999,unlisted, _51.4580 ,-0.4450
+"Heathrow Terminal 5 station, London, UK",Hillingdon,Heathrow Express,HWV,6,2008,unlisted, _51.4723 ,-0.4880
+"Hendon station, London, UK",Barnet,Thameslink,HEN,03-Apr,1868,E, _51.5800 ,-0.2389
+"Herne Hill station, London, UK",Lambeth,Southeastern,HNH,02-Mar,1862,C, _51.4533 ,-0.1021
+"Highams Park station, London, UK",Waltham Forest,London Overground,HIP,4,1873,C, _51.6084 ,-0.0001
+"Highbury & Islington station, London, UK",Islington,London Underground,HHY,2,1872,C/Fe, _51.5458 ,-0.1050
+"Hither Green station, London, UK",Lewisham,Southeastern,HGR,3,1866,C, _51.4519 ,-0.0008
+"Homerton station, London, UK",Hackney,London Overground,HMN,2,1868,E, _51.5470 ,-0.0431
+"Honor Oak Park station, London, UK",Lewisham,London Overground,HPA,3,1886,D, _51.4501 ,-0.0456
+"Hornsey station, London, UK",Haringey,Great Northern,HRN,3,1850,D, _51.5862 ,-0.1116
+"Hounslow station, London, UK",Hounslow,South Western Railway,HOU,5,1849,D, _51.4620 ,-0.3622
+"Hoxton station, London, UK",Hackney,London Overground,HOX,01-Feb,2010,unlisted, _51.5318 ,-0.0754
+"Ilford station, London, UK",Redbridge,Elizabeth line,IFD,4,1839,C, _51.5586 ,0.0696
+"Imperial Wharf station, London, UK",Hammersmith and Fulham,London Overground,IMW,2,2009,E, _51.4751 ,-0.1828
+"Isleworth station, London, UK",Hounslow,South Western Railway,ISL,4,1850,F, _51.4749 ,-0.3370
+"Kenley station, London, UK",Croydon,Southern,KLY,6,1856,E, _51.3246 ,-0.1007
+"Kensal Green station, London, UK",Brent,London Underground,KNL,2,1916,E, _51.5306 ,-0.2243
+"Kensal Rise station, London, UK",Brent,London Overground,KNR,2,1873,E, _51.5345 ,-0.2204
+"Kensington (Olympia) station, London, UK",Kensington and Chelsea,London Overground,KPA,2,1864,C, _51.4985 ,-0.2110
+"Kent House station, London, UK",Bromley,Southeastern,KTH,4,1884,D, _51.4123 ,-0.0453
+"Kentish Town station, London, UK",Camden,London Underground,KTN,2,1868,F, _51.5505 ,-0.1396
+"Kentish Town West station, London, UK",Camden,London Overground,KTW,2,1860,E, _51.5468 ,-0.1468
+"Kenton station, London, UK",Brent,London Underground,KNT,4,1912,E, _51.5818 ,-0.3167
+"Kew Bridge station, London, UK",Hounslow,South Western Railway,KWB,3,1849,F, _51.4895 ,-0.2878
+"Kew Gardens station, London, UK",Richmond upon Thames,London Underground,KWG,03-Apr,1870,D, _51.4772 ,-0.2849
+"Kidbrooke station, London, UK",Greenwich,Southeastern,KDB,3,1895,D, _51.4621 ,0.0273
+"Kilburn High Road station, London, UK",Camden,London Overground,KBN,2,1852,E, _51.5373 ,-0.1925
+"King's CrossLondon station, London, UK",Camden,Network Rail,KGX,1,1852,A, _51.5324 ,-0.1233
+"Kingston station, London, UK",Kingston upon Thames,South Western Railway,KNG,6,1845,C, _51.4129 ,-0.3019
+"Kingswood station, London, UK",Reigate and Bansteadout-boundary,Southern,KND,6,1897,E, _51.2950 ,-0.2110
+"Knockholt station, London, UK",Bromley,Southeastern,KCK,6,1876,E, _51.3459 ,0.1307
+"Ladywell station, London, UK",Lewisham,Southeastern,LAD,3,1857,E, _51.4562 ,-0.0192
+"Lea Bridge station, London, UK",Waltham Forest,Greater Anglia,LEB,3,2016c,unknown, _51.5665 ,-0.0366
+"Lee station, London, UK",Lewisham,Southeastern,LEE,3,1866,D, _51.4497 ,0.0128
+"Lewisham station, London, UK",Lewisham,Southeastern,LEW,02-Mar,1849,C, _51.4658 ,-0.0141
+"Leyton Midland Road station, London, UK",Waltham Forest,London Overground,LEM,3,1894,E, _51.5693 ,-0.0072
+"Leytonstone High Road station, London, UK",Waltham Forest,London Overground,LER,3,1894,E, _51.5634 ,0.0073
+"Limehouse station, London, UK",Tower Hamlets,c2c,LHS,2,1840,E, _51.5126 ,-0.0402
+"Liverpool StreetLondon station, London, UK",City of London,Network Rail,LST,1,1874,A, _51.5185 ,-0.0819
+"London BridgeLondon station, London, UK",Southwark,Network Rail,LBG,1,1836,A, _51.5053 ,-0.0851
+"London Fields station, London, UK",Hackney,London Overground,LOF,2,1872,F, _51.5407 ,-0.0577
+"Loughborough Junction station, London, UK",Lambeth,Thameslink,LGJ,2,1864,E, _51.4661 ,-0.1020
+"Lower Sydenham station, London, UK",Lewisham,Southeastern,LSY,4,1857,E, _51.4245 ,-0.0336
+"Malden Manor station, London, UK",Kingston upon Thames,South Western Railway,MAL,4,1938,E, _51.3847 ,-0.2618
+"Manor Park station, London, UK",Newham,Elizabeth line,MNP,03-Apr,1872,C, _51.5526 ,0.0463
+"Maryland station, London, UK",Newham,Elizabeth line,MYL,3,1874,D, _51.5460 ,0.0059
+"Meridian Water station, London, UK",Enfield,Greater Anglia,MRW,4,2019,??, _51.6083 ,-0.0509
+"MaryleboneLondon station, London, UK",Westminster,Chiltern Railways,MYB,1,1899,A, _51.5231 ,-0.1630
+"Maze Hill station, London, UK",Greenwich,Southeastern,MZH,3,1873,D, _51.4830 ,0.0032
+"Mill Hill Broadway station, London, UK",Barnet,Thameslink,MIL,4,1868,D, _51.6128 ,-0.2491
+"Mitcham Eastfields station, London, UK",Merton,Southern,MTC,3,2008,E, _51.4077 ,-0.1547
+"Mitcham Junction station, London, UK",Merton,Southern,MIJ,4,1868,E, _51.3930 ,-0.1576
+"MoorgateLondon station, London, UK",City of London,London Underground,MOG,1,1865,E, _51.5187 ,-0.0896
+"Morden South station, London, UK",Merton,Thameslink,MDS,4,1930,F, _51.3965 ,-0.1990
+"Mortlake station, London, UK",Richmond upon Thames,South Western Railway,MTL,3,1846,C, _51.4682 ,-0.2672
+"Motspur Park station, London, UK",Merton,South Western Railway,MOT,4,1938,C, _51.3958 ,-0.2397
+"Mottingham station, London, UK",Greenwich,Southeastern,MTG,4,1866,D, _51.4401 ,0.0504
+"New Barnet station, London, UK",Barnet,Great Northern,NBA,5,1857,D, _51.6488 ,-0.1738
+"New Beckenham station, London, UK",Bromley,Southeastern,NBC,4,1857,E, _51.4164 ,-0.0348
+"New Cross station, London, UK",Lewisham,Southeastern,NWX,2,1850,C, _51.4760 ,-0.0325
+"New Cross Gate station, London, UK",Lewisham,London Overground,NXG,2,1839,C, _51.4752 ,-0.0406
+"New Eltham station, London, UK",Greenwich,Southeastern,NEH,4,1878,C, _51.4380 ,0.0705
+"New Malden station, London, UK",Kingston upon Thames,South Western Railway,NEM,4,1838,C, _51.4039 ,-0.2560
+"New Southgate station, London, UK",Barnet,Great Northern,NSG,4,1850,E, _51.6142 ,-0.1432
+"Norbiton station, London, UK",Kingston upon Thames,South Western Railway,NBT,5,1869,C, _51.4124 ,-0.2838
+"Norbury station, London, UK",Croydon,Southern,NRB,3,1878,C, _51.4114 ,-0.1214
+"North Dulwich station, London, UK",Southwark,Southern,NDL,02-Mar,1868,E, _51.4543 ,-0.0887
+"Northolt Park station, London, UK",Ealing,Chiltern Railways,NLT,5,1926,E, _51.5574 ,-0.3595
+"North Sheen station, London, UK",Richmond upon Thames,South Western Railway,NSH,3,1930,E, _51.4656 ,-0.2865
+"Northumberland Park station, London, UK",Haringey,Greater Anglia,NUM,3,1840,E, _51.5986 ,-0.0551
+"North Wembley station, London, UK",Brent,London Underground,NWB,4,1912,E, _51.5627 ,-0.3040
+"Norwood Junction station, London, UK",Croydon,London Overground,NWD,4,1841,C, _51.3971 ,-0.0749
+"Nunhead station, London, UK",Southwark,Southeastern,NHD,2,1865,E, _51.4671 ,-0.0527
+"Oakleigh Park station, London, UK",Barnet,Great Northern,OKL,4,1873,D, _51.6379 ,-0.1667
+"Ockendon station, London, UK",Thurrockout-boundary,c2c,OCK,G,1892,E, _51.5200 ,0.2900
+"Old StreetLondon station, London, UK",Islington,London Underground,OLD,1,1901,E, _51.5258 ,-0.0850
+"Orpington station, London, UK",Bromley,Southeastern,ORP,6,1868,C, _51.3741 ,0.0885
+"PaddingtonLondon station, London, UK",Westminster,Network Rail,PAD,1,1838,A, _51.5171 ,-0.1769
+"Palmers Green station, London, UK",Enfield,Great Northern,PAL,4,1871,C, _51.6184 ,-0.1102
+"Peckham Rye station, London, UK",Southwark,Southern,PMR,2,1864,D, _51.4701 ,-0.0691
+"Penge East station, London, UK",Bromley,Southeastern,PNE,4,1862,D, _51.4191 ,-0.0537
+"Penge West station, London, UK",Bromley,London Overground,PNW,4,1839,E, _51.4174 ,-0.0606
+"Petts Wood station, London, UK",Bromley,Southeastern,PET,5,1928,C, _51.3889 ,0.0742
+"Plumstead station, London, UK",Greenwich,Southeastern,PLU,4,1849,D, _51.4897 ,0.0844
+"Ponders End station, London, UK",Enfield,Greater Anglia,PON,5,1840,C, _51.6420 ,-0.0349
+"Purfleet station, London, UK",Thurrockout-boundary,c2c,PFL,G,1854,D, _51.4810 ,0.2370
+"Purley station, London, UK",Croydon,Southern,PUR,6,1841,C, _51.3377 ,-0.1135
+"Purley Oaks station, London, UK",Croydon,Southern,PUO,6,1899,D, _51.3469 ,-0.0987
+"Putney station, London, UK",Wandsworth,South Western Railway,PUT,02-Mar,1844,C, _51.4611 ,-0.2162
+"Queen's Park station, London, UK",Brent,London Underground,QPW,2,1879,C, _51.5341 ,-0.2053
+"Queens Road Peckham station, London, UK",Southwark,Southern,QRP,2,1866,E, _51.4736 ,-0.0573
+"Queenstown Road (Battersea) station, London, UK",Wandsworth,South Western Railway,QRB,2,1877,F, _51.4748 ,-0.1470
+"Rainham station, London, UK",Havering,c2c,RNM,6,1854,C, _51.5169 ,0.1905
+"Ravensbourne station, London, UK",Bromley,Southeastern,RVB,4,1892,E, _51.4141 ,-0.0075
+"Raynes Park station, London, UK",Merton,South Western Railway,RAY,4,1838,C, _51.4094 ,-0.2299
+"Rectory Road station, London, UK",Hackney,London Overground,REC,2,1872,E, _51.5584 ,-0.0681
+"Reedham station, London, UK",Croydon,Southern,RHM,6,1911,E, _51.3313 ,-0.1233
+"Richmond station, London, UK",Richmond upon Thames,South Western Railway,RMD,4,1846,B, _51.4630 ,-0.3014
+"Rickmansworth station, London, UK",Three Riversout-boundary,London Underground,RIC,7,1887,unlisted, _51.6402 ,-0.4733
+"Riddlesdown station, London, UK",Croydon,Southern,RDD,6,1927,E, _51.3323 ,-0.0996
+"Romford station, London, UK",Havering,Elizabeth line,RMF,6,1839,C, _51.5749 ,0.1827
+"Rotherhithe station, London, UK",Southwark,London Overground,ROE,2,1869,unlisted, _51.5008 ,-0.0522
+"St Helier station, London, UK",Merton,Thameslink,SIH,4,1930,F, _51.3901 ,-0.1985
+"St James Street station, London, UK",Waltham Forest,London Overground,SJS,3,1870,D, _51.5810 ,-0.0323
+"St Johns station, London, UK",Lewisham,Southeastern,SAJ,2,1849,E, _51.4691 ,-0.0225
+"St Margarets station, London, UK",Richmond upon Thames,South Western Railway,SMG,4,1876,C, _51.4550 ,-0.3204
+"St Mary Cray station, London, UK",Bromley,Southeastern,SMY,6,1858,C, _51.3947 ,0.1058
+"St PancrasLondon station, London, UK",Camden,Network Rail/Eurostar,STP,1,1868,A/Cd, _51.5314 ,-0.1261
+"Sanderstead station, London, UK",Croydon,Southern,SNR,6,1884,D, _51.3484 ,-0.0940
+"Selhurst station, London, UK",Croydon,Southern,SRS,4,1865,D, _51.3921 ,-0.0883
+"Seven Kings station, London, UK",Redbridge,Elizabeth line,SVK,4,1899,C, _51.5635 ,0.0969
+"Seven Sisters station, London, UK",Haringey,London Overground,SVS,3,1872,D, _51.5839 ,-0.0756
+"Shadwell station, London, UK",Tower Hamlets,London Overground,SDE,2,1876,unlisted, _51.5112 ,-0.0569
+"Shenfield station, London, UK",Brentwoodout-boundary,Greater Anglia,SNF,B,1843,B, _51.6331 ,0.3328
+"Shepherd's Bush station, London, UK",Hammersmith and Fulham,London Overground,SPB,2,2008,D, _51.5051 ,-0.2175
+"Shoreditch High Street station, London, UK",Hackney,London Overground,SDC,1,2010,unlisted, _51.5234 ,-0.0768
+"Shortlands station, London, UK",Bromley,Southeastern,SRT,4,1858,D, _51.4058 ,0.0019
+"Sidcup station, London, UK",Bexley,Southeastern,SID,5,1866,C, _51.4338 ,0.1040
+"Silver Street station, London, UK",Enfield,London Overground,SLV,4,1872,D, _51.6149 ,-0.0676
+"Slade Green station, London, UK",Bexley,Southeastern,SGR,6,1866,E, _51.4678 ,0.1904
+"South Acton station, London, UK",Ealing,London Overground,SAT,3,1880,E, _51.4994 ,-0.2707
+"Southall station, London, UK",Ealing,Elizabeth line,STL,4,1839,D, _51.5060 ,-0.3783
+"South Bermondsey station, London, UK",Southwark,Southern,SBM,2,1866,E, _51.4887 ,-0.0548
+"Southbury station, London, UK",Enfield,London Overground,SBU,5,1891,E, _51.6488 ,-0.0524
+"South Croydon station, London, UK",Croydon,Southern,SCY,5,1865,D, _51.3629 ,-0.0933
+"South Greenford station, London, UK",Ealing,Great Western Railway,SGN,4,1903,F, _51.5342 ,-0.3369
+"South Hampstead station, London, UK",Camden,London Overground,SOH,2,1879,E, _51.5414 ,-0.1788
+"South Kenton station, London, UK",Brent,London Underground,SOK,4,1933,E, _51.5703 ,-0.3086
+"South Merton station, London, UK",Merton,Thameslink,SMO,4,1930,F, _51.4030 ,-0.2062
+"South Ruislip station, London, UK",Hillingdon,Chiltern Railways,SRU,5,1908,F, _51.5569 ,-0.3988
+"South Tottenham station, London, UK",Haringey,London Overground,STO,3,1871,E, _51.5802 ,-0.0720
+"Stamford Hill station, London, UK",Haringey,London Overground,SMH,3,1872,E, _51.5749 ,-0.0761
+"Stoke Newington station, London, UK",Hackney,London Overground,SKW,2,1872,E, _51.5651 ,-0.0727
+"Stonebridge Park station, London, UK",Brent,London Underground,SBP,3,1912,D, _51.5440 ,-0.2754
+"Stoneleigh station, London, UK",Epsom and Ewellout-boundary,South Western Railway,SNL,5,1932,C, _51.3637 ,-0.2487
+"Stratford station, London, UK",Newham,Elizabeth line,SRA,3,1839,B, _51.5417 ,-0.0037
+"Stratford International station, London, UK",Newham,Southeastern,SFA,3,2009,unlisted, _51.5448 ,-0.0087
+"Strawberry Hill station, London, UK",Richmond upon Thames,South Western Railway,STW,5,1873,C, _51.4389 ,-0.3388
+"Streatham station, London, UK",Lambeth,Southern,STE,3,1856,D, _51.4260 ,-0.1311
+"Streatham Common station, London, UK",Lambeth,Southern,SRC,3,1862,C, _51.4187 ,-0.1359
+"Streatham Hill station, London, UK",Lambeth,Southern,SRH,3,1856,C, _51.4380 ,-0.1271
+"Sudbury & Harrow Road station, London, UK",Brent,Chiltern Railways,SUD,4,1910,F, _51.5540 ,-0.3167
+"Sudbury Hill Harrow station, London, UK",Harrow,Chiltern Railways,SDH,4,1910,F, _51.5589 ,-0.3358
+"Sundridge Park station, London, UK",Bromley,Southeastern,SUP,4,1878,E, _51.4137 ,0.0221
+"Surbiton station, London, UK",Kingston upon Thames,South Western Railway,SUR,6,1838,B, _51.3926 ,-0.3044
+"Surrey Quays station, London, UK",Southwark,London Overground,SQE,2,1884,unlisted, _51.4933 ,-0.0477
+"Sutton station, London, UK",Sutton,Southern,SUO,5,1847,C, _51.3601 ,-0.1903
+"Sutton Common station, London, UK",Sutton,Thameslink,SUC,4,1930,F, _51.3751 ,-0.1964
+"Swanley station, London, UK",Sevenoaksout-boundary,Southeastern,SAY,8,1862,C, _51.3934 ,0.1690
+"Sydenham station, London, UK",Lewisham,London Overground,SYD,3,1839,D, _51.4268 ,-0.0545
+"Sydenham Hill station, London, UK",Southwark,Southeastern,SYH,3,1862,E, _51.4326 ,-0.0802
+"Syon Lane station, London, UK",Hounslow,South Western Railway,SYL,4,1925,F, _51.4818 ,-0.3248
+"Tadworth station, London, UK",Reigate and Bansteadout-boundary,Southern,TAD,6,1900,E, _51.2920 ,-0.2360
+"Tattenham Corner station, London, UK",Reigate and Bansteadout-boundary,Southern,TAT,6,1901,E, _51.3092 ,-0.2426
+"Teddington station, London, UK",Richmond upon Thames,South Western Railway,TED,6,1864,C, _51.4247 ,-0.3325
+"Thames Ditton station, London, UK",Elmbridgeout-boundary,South Western Railway,THD,6,1849,D, _51.3886 ,-0.3383
+"Theobalds Grove station, London, UK",Broxbourneout-boundary,London Overground,TEO,7,1891,D, _51.6937 ,-0.0327
+"Thornton Heath station, London, UK",Croydon,Southern,TTH,4,1862,C, _51.3985 ,-0.1004
+"Tolworth station, London, UK",Kingston upon Thames,South Western Railway,TOL,5,1938,E, _51.3771 ,-0.2793
+"Tooting station, London, UK",Merton,Thameslink,TOO,3,1868,E, _51.4196 ,-0.1603
+"Tottenham Court Road station, London, UK",Camden,Elizabeth line,TCR,2,2022,unlisted, _51.5162 ,-0.1309
+"Tottenham Hale station, London, UK",Haringey,Greater Anglia,TOM,3,1840,D, _51.5902 ,-0.0611
+"Tulse Hill station, London, UK",Lambeth,Southern,TUH,3,1868,D, _51.4399 ,-0.1049
+"Turkey Street station, London, UK",Enfield,London Overground,TUR,6,1891,E, _51.6725 ,-0.0474
+"Twickenham station, London, UK",Richmond upon Thames,South Western Railway,TWI,5,1848,C, _51.4504 ,-0.3296
+"Upminster station, London, UK",Havering,c2c,UPM,6,1885,C, _51.5588 ,0.2509
+"Upper Holloway station, London, UK",Islington,London Overground,UHL,2,1868,E, _51.5638 ,-0.1298
+"Upper Warlingham station, London, UK",Tandridgeout-boundary,Southern,UWL,6,1884,D, _51.3085 ,-0.0780
+"VauxhallLondon station, London, UK",Lambeth,South Western Railway,VXH,01-Feb,1848,B, _51.4859 ,-0.1229
+"VictoriaLondon station, London, UK",Westminster,Network Rail,VIC,1,1862,A, _51.4966 ,-0.1448
+"Waddon station, London, UK",Croydon,Southern,WDO,5,1847,D, _51.3674 ,-0.1170
+"Wallington station, London, UK",Sutton,Southern,WLT,5,1847,C, _51.3592 ,-0.1533
+"Waltham Cross station, London, UK",Broxbourneout-boundary,Greater Anglia,WLC,7,1842,E, _51.6851 ,-0.0266
+"Walthamstow Central station, London, UK",Waltham Forest,London Overground,WHC,3,1869,C, _51.5831 ,-0.0192
+"Walthamstow Queen's Road station, London, UK",Waltham Forest,London Overground,WMW,3,1894,E, _51.5817 ,-0.0240
+"Wandsworth Common station, London, UK",Wandsworth,Southern,WSW,3,1895,D, _51.4464 ,-0.1635
+"Wandsworth Road station, London, UK",[[Lambeth]],London Overground,WWR,2,1863,F, _51.4702 ,-0.1390
+"Wandsworth Town station, London, UK",Wandsworth,South Western Railway,WNT,2,1846,C, _51.4610 ,-0.1879
+"Wanstead Park station, London, UK",Newham,London Overground,WNP,3,1894,E, _51.5518 ,0.0264
+"Wapping station, London, UK",Tower Hamlets,London Overground,WPE,2,1869,unlisted, _51.5044 ,-0.0558
+"WaterlooLondon station, London, UK",Lambeth,Network Rail,WAT,1,1848,A, _51.5031 ,-0.1132
+"Waterloo EastLondon station, London, UK",Lambeth,Southeastern,WAE,1,1869,B, _51.5041 ,-0.1101
+"Watford High Street station, London, UK",Watfordout-boundary,London Overground,WFH,8,1862,D, _51.6525 ,-0.3918
+"Watford Junction station, London, UK",Watfordout-boundary,London Northwestern Railway,WFJ,W,1858,B, _51.6635 ,-0.3958
+"Welling station, London, UK",Bexley,Southeastern,WLI,4,1895,C, _51.4647 ,0.1017
+"Wembley Central station, London, UK",Brent,London Underground,WMB,4,1842,C, _51.5519 ,-0.2964
+"Wembley Stadium station, London, UK",Brent,Chiltern Railways,WCX,4,1906,F, _51.5543 ,-0.2863
+"West Brompton station, London, UK",Kensington and Chelsea,London Underground,WBP,2,1869,E, _51.4866 ,-0.1957
+"Westcombe Park station, London, UK",Greenwich,Southeastern,WCB,3,1879,D, _51.4842 ,0.0187
+"West Croydon station, London, UK",Croydon,London Overground,WCY,5,1839,C, _51.3785 ,-0.1020
+"West Drayton station, London, UK",Hillingdon,Elizabeth line,WDT,6,1838,E, _51.5101 ,-0.4719
+"West Dulwich station, London, UK",Southwark,Southeastern,WDU,3,1862,E, _51.4409 ,-0.0906
+"West Ealing station, London, UK",Ealing,Elizabeth line,WEA,3,1871,E, _51.5137 ,-0.3203
+"West Ham station, London, UK",Newham,London Underground,WEH,3,1901,C, _51.5284 ,0.0066
+"West Hampstead station, London, UK",Camden,London Overground,WHD,2,1888,D, _51.5473 ,-0.1913
+"West Hampstead Thameslink station, London, UK",Camden,Thameslink,WHP,2,1871,E, _51.54848 ,-0.1918
+"West Norwood station, London, UK",Lambeth,Southern,WNW,3,1856,D, _51.4318 ,-0.1035
+"West Ruislip station, London, UK",Hillingdon,Chiltern Railways,WRU,6,1906,F, _51.5696 ,-0.4376
+"West Sutton station, London, UK",Sutton,Thameslink,WSU,5,1930,E, _51.3662 ,-0.2051
+"West Wickham station, London, UK",Bromley,Southeastern,WWI,5,1882,D, _51.3813 ,-0.0145
+"Whitechapel station, London, UK",Tower Hamlets,London Underground,ZLW,2,1876,unlisted, _51.5190 ,-0.0610
+"White Hart Lane station, London, UK",Haringey,London Overground,WHL,3,1872,E, _51.6049 ,-0.0711
+"Whitton station, London, UK",Richmond upon Thames,South Western Railway,WTN,5,1930,C, _51.4495 ,-0.3578
+"Whyteleafe station, London, UK",Tandridgeout-boundary,Southern,WHY,6,1900,E, _51.3097 ,-0.0811
+"Whyteleafe South station, London, UK",Tandridgeout-boundary,Southern,WHS,6,1856,E, _51.3034 ,-0.0768
+"Willesden Junction station, London, UK",Brent,London Overground,WIJ,02-Mar,1866,C, _51.5324 ,-0.2439
+"Wimbledon station, London, UK",Merton,South Western Railway,WIM,3,1838,B, _51.4232 ,-0.2043
+"Wimbledon Chase station, London, UK",Merton,Thameslink,WBO,3,1930,F, _51.4095 ,-0.2142
+"Winchmore Hill station, London, UK",Enfield,Great Northern,WIH,4,1871,D, _51.6341 ,-0.1013
+"Woodgrange Park station, London, UK",Newham,London Overground,WGR,03-Apr,1894,E, _51.5487 ,0.0454
+"Woodmansterne station, London, UK",Croydon,Southern,WME,6,1904,E, _51.3192 ,-0.1539
+"Wood Street station, London, UK",Waltham Forest,London Overground,WST,4,1873,D, _51.5864 ,-0.0021
+"Woolwich station, London, UK",Greenwich,Elizabeth line,WWC,2,2022,unlisted, _51.491578 ,0.0718
+"Woolwich Arsenal station, London, UK",Greenwich,Southeastern,WWA,4,1849,C, _51.4898 ,0.0694
+"Woolwich Dockyard station, London, UK",Greenwich,Southeastern,WWD,3,1849,E, _51.4913 ,0.0536
+"Worcester Park station, London, UK",Sutton,South Western Railway,WCP,4,1859,C, _51.3804 ,-0.2412
